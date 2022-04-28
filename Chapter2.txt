@@ -1,1 +1,4 @@
 JavaScript: The Definitive Guide 
+By: Flanagan
+-- Seventh Edition --
+-- O'REILLY --
